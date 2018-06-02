@@ -1,0 +1,3 @@
+author = Lv100ShinySnivy
+version = 0.1
+displayName = Nature's Lament
